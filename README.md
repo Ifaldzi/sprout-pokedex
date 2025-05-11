@@ -6,9 +6,7 @@ A modern Pokédex web application that allows users to browse through a list of 
 
 - 📱 Browse through a list of Pokémon
 - 🔍 View detailed information about each Pokémon
-- 🎨 Modern and responsive UI
-- ⚡️ Fast and efficient data loading
-- 🔄 Real-time data from PokéAPI
+- 🎨 Responsive UI
 
 ## Screenshots
 
@@ -17,12 +15,10 @@ A modern Pokédex web application that allows users to browse through a list of 
 
 ## Tech Stack
 
-- ⚛️ React Router v7 for routing
+- ⚛️ React Router v7
 - 🎨 Shadcn UI components
-- 🎯 TypeScript for type safety
-- 🎨 TailwindCSS for styling
-- 🔄 React Query for data fetching
-- 📦 Vite for build tooling
+- 🎯 TypeScript
+- 🎨 TailwindCSS
 
 ## Getting Started
 
